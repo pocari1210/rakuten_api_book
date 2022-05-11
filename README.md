@@ -7,5 +7,4 @@ Rakuten Developersの楽天ブック検索APIを活用し、
 キーワードを入力し、検索をしたら楽天ブック検索APIに
 登録をしている商品を抽出することができます。
 
-![image](
-img src="https://user-images.githubusercontent.com/98627989/167808385-5d9cc6c6-9181-40db-8a50-a84cf0a28dab.png" witdh="300")
+![image](img src="https://user-images.githubusercontent.com/98627989/167808385-5d9cc6c6-9181-40db-8a50-a84cf0a28dab.png" width="300")

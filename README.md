@@ -1,6 +1,6 @@
 # rakuten_api_book
 
-◆概要◆
+◆概要◆<br>
 Rakuten Developersの楽天ブック検索APIを活用し、
 商品ページまで遷移ができるサイトを構築しました。
 

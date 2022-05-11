@@ -23,10 +23,7 @@ URLが正しいかを確認し、正しい情報を変数(SEARCH_URL)に代入�
 （app/views.py:8行目）
 
 <p>
-<h3>★検索結果画像★</h3>
-<img src="https://user-images.githubusercontent.com/98627989/167808385-5d9cc6c6-9181-40db-8a50-a84cf0a28dab.png" width="300" height="250">
-
-<h3>★商品詳細ページ★</h3>
-<img src="https://user-images.githubusercontent.com/98627989/167810900-a7094c0d-86ee-4b71-a177-da3e6dc1bd1e.png" width="300" height="250">
+<img src="https://user-images.githubusercontent.com/98627989/167808385-5d9cc6c6-9181-40db-8a50-a84cf0a28dab.png" alt="検索結果画像"width="300" height="250">
+<img src="https://user-images.githubusercontent.com/98627989/167810900-a7094c0d-86ee-4b71-a177-da3e6dc1bd1e.png" alt="商品詳細ページ" width="300" height="250">
 </p>
 

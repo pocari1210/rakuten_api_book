@@ -1,6 +1,6 @@
 # rakuten_api_book
 
-<h2>◆概要◆</h2><br>
+<h2>◆概要◆</h2>
 Rakuten Developersの楽天ブック検索APIを活用し、<br>
 商品ページまで遷移ができるサイトを構築しました。<br><br>
 
@@ -14,7 +14,13 @@ Rakuten Developersの楽天ブック検索APIを活用し、<br>
 HTML・CSS(Bootstrap)<br>
 python(Django)
 
+<h2>◆難しかった点◆</h2>
+APIを読み込むことができず、うまく出力できなかった点です。<br>
 
+解決策としては、Rakuten Developersにテスト環境があるので、<br>
+URLが正しいかを確認し、正しい情報を変数(SEARCH_URL)に代入し、<br>
+解決することができました。<br>
+（app/views.py:8行目）
 
 <h3>★検索結果画像★</h3>
 <img src="https://user-images.githubusercontent.com/98627989/167808385-5d9cc6c6-9181-40db-8a50-a84cf0a28dab.png" width="300" height="250">

@@ -7,8 +7,14 @@ Rakuten Developersの楽天ブック検索APIを活用し、<br>
 キーワードを入力し、検索をしたら楽天ブック検索APIに<br>
 登録をしている商品を抽出することができます。
 
-商品をクリックした後、商品の商品ページに遷移し、
+商品をクリックした後、商品の商品ページに遷移し、<br>
 購入ボタンをクリックしたら商品ページに遷移する仕様になっています。
+
+<h2>◆使用言語◆</h2>
+HTML・CSS(Bootstrap)<br>
+python(Django)
+
+
 
 <h3>★検索結果画像★</h3>
 <img src="https://user-images.githubusercontent.com/98627989/167808385-5d9cc6c6-9181-40db-8a50-a84cf0a28dab.png" width="300" height="250">
